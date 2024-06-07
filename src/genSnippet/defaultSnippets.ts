@@ -1,3 +1,5 @@
+export {};
+
 /**
  * @prefix tok_useCallbackSnippet
  * @description useCallback 자동생성 스니펫입니다.

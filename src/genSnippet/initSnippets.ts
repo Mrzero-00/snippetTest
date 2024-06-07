@@ -23,7 +23,7 @@
 /**
  * @prefix tok_example2
  * @description 커스텀 스니펫(var적용) 예시입니다.
- * @body console.log('Hello, {var}');
+ * @body const handler{var} = useCallback(()=>{},[]);
  */
 
 /**

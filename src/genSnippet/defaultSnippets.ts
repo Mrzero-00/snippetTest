@@ -17,7 +17,7 @@
  */
 
 /**
- * @prefix tok_useDisclosure
+ * @prefix tok_useDisclosureSnippet
  * @description useDisclosure 자동생성 스니펫입니다.
  * @body const {isOpen:{var}IsOpen,onOpen:{var}OnOpen,onClose:{var}OnClose} =useDisclosure();
  */
